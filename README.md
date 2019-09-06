@@ -23,3 +23,5 @@ Things you may want to cover:
 
 * ...
 “Hello Rails Girls”
+
+# rails-girls-workshop
